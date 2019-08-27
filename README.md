@@ -1,2 +1,2 @@
 # python-challenge
-Homework3
+Using Python to navigate and summarize financial records
